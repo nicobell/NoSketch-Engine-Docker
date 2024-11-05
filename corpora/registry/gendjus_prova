@@ -1,0 +1,110 @@
+MAINTAINER "your@yourdomain.com"
+
+INFO "GENDJUS_PROVA"
+NAME "GENDJUS_PROVA"
+PATH "/corpora/gendjus_prova"
+ENCODING "UTF-8"
+LANGUAGE "Spanish"
+
+PATH "/corpora/gendjus_prova/indexed/"
+VERTICAL "/corpora/gendjus_prova/vertical/source"
+
+INFOHREF "https://www.sketchengine.eu/spanish-freeling-part-of-speech-tagset/"
+TAGSETDOC "https://www.sketchengine.eu/spanish-freeling-part-of-speech-tagset/"
+
+FULLREF "doc.id,doc.filename"
+
+# WSDEF "/corpora/wsdef/spanish-freeling-2.0.wsdef.m4"
+
+# LPOS and WPOS lists
+LPOSLIST ",adjective,-j,adverb,-r,conjunction,-c,noun,-n,numeral,-m,preposition,-i,pronoun,-p,verb,-v"
+WPOSLIST ",adjective,A.*,adverb,R.*,conjunction,C.*,determiner,D.*,noun,N.*,numeral,Z.*,preposition,S.*,pronoun,P.*,verb,V.*,punctuation,F.*"
+
+# Additional configurations
+REFCORPUS "estenten18_fl6"
+SIMPLEQUERY '[lc="%s" | lemma_lc="%s" | morphemes="%s"]'
+# TERMDEF "/corpora/wsdef/spanish-freeling-terms-2.0.termdef.m4"
+WSATTR "lempos"
+
+ATTRIBUTE word
+ATTRIBUTE tag
+ATTRIBUTE lempos
+ATTRIBUTE gender_lemma
+ATTRIBUTE tags {
+    LABEL "composed tag"
+    MULTISEP ","
+    MULTIVALUE "1"
+}
+ATTRIBUTE morphemes {
+    MULTISEP ","
+    MULTIVALUE "1"
+}
+ATTRIBUTE gender_guess {
+    MULTISEP ","
+    MULTIVALUE "1"
+}
+ATTRIBUTE number_guess {
+    MULTISEP ","
+    MULTIVALUE "1"
+}
+ATTRIBUTE lc {
+    LABEL "word (lowercase)"
+    DYNAMIC utf8lowercase
+    DYNLIB internal
+    ARG1 "C"
+    FUNTYPE s
+    FROMATTR word
+    TYPE index
+    TRANSQUERY yes
+}
+ATTRIBUTE lempos_lc {
+    LABEL "lempos (lowercase)"
+    DYNAMIC utf8lowercase
+    DYNLIB internal
+    ARG1 "C"
+    FUNTYPE s
+    FROMATTR lempos
+    TYPE index
+    TRANSQUERY yes
+}
+ATTRIBUTE lemma {
+    ARG1 "2"
+    DYNAMIC striplastn
+    DYNLIB internal
+    DYNTYPE freq
+    FROMATTR lempos
+    FUNTYPE i
+}
+ATTRIBUTE lemma_lc {
+    LABEL "lemma (lowercase)"
+    DYNAMIC utf8lowercase
+    DYNLIB internal
+    ARG1 "C"
+    FUNTYPE s
+    FROMATTR lemma
+    TYPE index
+    TRANSQUERY yes
+}
+ATTRIBUTE shorttag {
+    ARG1 "1"
+    DYNAMIC getfirstn
+    DYNLIB internal
+    DYNTYPE freq
+    FROMATTR tag
+    FUNTYPE i
+}
+ATTRIBUTE pos {
+    DYNAMIC "awk '{print substr($0,length($0))}'"
+    DYNLIB pipe
+    DYNTYPE freq
+    FROMATTR lempos
+}
+STRUCTURE doc {
+    ATTRIBUTE id
+    ATTRIBUTE filename
+}
+STRUCTURE s
+STRUCTURE g {
+    DISPLAYTAG 0
+    DISPLAYBEGIN "_EMPTY_"
+}

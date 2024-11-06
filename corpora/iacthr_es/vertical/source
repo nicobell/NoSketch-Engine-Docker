@@ -1,0 +1,953 @@
+<docx id="file33930518" filename="CO1_IACtHR_A18_2003_ES.txt" parent_folder="upload">
+<doc document="Concurring opinion" reproductive_rights="" sexual_rights="" parental_rights="" discrimination="Work,Migration,Discrimination against LGBTI" >
+<s>
+VOTO	NCMS000	voto-n	voto	NCMS000	voto	M	S
+CONCURRENTE	AQ0CS00	concurrente-j	concurrente	AQ0CS00	concurrente	M	S
+DEL	SP	de-i	de	SP,DA0MS0	de,el	M	S
+JUEZ	NPCS000	JUEZ-n	juez	NPCS000	JUEZ	M	S
+HERNÁN	NP00000	HERNÁN-n	hernán	NP00000	HERNÁN	M	S
+SALGADO	VMP00SM	salgar-v	salgado	VMP00SM	salgar	M	S
+PESANTES	AQ0CP00	pesante-j	pesante	AQ0CP00	pesante	M	P
+La	DA0FS0	el-x	la	DA0FS0	el	F	S
+presente	AQ0CS00	presente-j	presente	AQ0CS00	presente	F	S
+Opinión	NPFS000	Opinión-n	opinión	NPFS000	Opinión	F	S
+Consultiva	AQ0FS00	consultivo-j	consultiva	AQ0FS00	consultivo	F	S
+<g/>
+,	Fc	,-x	,	Fc	,	0	0
+solicitada	VMP00SF	solicitar-v	solicitada	VMP00SF	solicitar	F	S
+por	SP	por-i	por	SP	por	M	S
+el	DA0MS0	el-x	el	DA0MS0	el	M	S
+Estado	NPMS000	Estado-n	estado	NPMS000	Estado	M	S
+de	SP	de-i	de	SP	de	M	S
+México	NPMS000	México-n	méxico	NPMS000	México	M	S
+y	CC	y-c	y	CC	y	0	0
+enriquecida	VMP00SF	enriquecer-v	enriquecida	VMP00SF	enriquecer	F	S
+con	SP	con-i	con	SP	con	M	P
+los	DA0MP0	el-x	el	DA0MP0	el	M	P
+criterios	NCMP000	criterio-n	criterio	NCMP000	criterio	M	P
+de	SP	de-i	de	SP	de	M	P
+otros	DI0MP0	otro-x	otro	DI0MP0	otro	M	P
+Estados	NPMP000	Estados-n	estados	NPMP000	Estados	M	P
+y	CC	y-c	y	CC	y	0	0
+con	SP	con-i	con	SP	con	M	S
+el	DA0MS0	el-x	el	DA0MS0	el	M	S
+aporte	NCMS000	aporte-n	aporte	NCMS000	aporte	M	S
+intelectual	AQ0CS00	intelectual-j	intelectual	AQ0CS00	intelectual	M	S
+de	SP	de-i	de	SP	de	F	P
+las	DA0FP0	el-x	la	DA0FP0	el	F	P
+organizaciones	NCFP000	organización-n	organización	NCFP000	organización	F	P
+no	RN	no-r	no	RN	no	F	P
+gubernamentales	AQ0CP00	gubernamental-j	gubernamental	AQ0CP00	gubernamental	F	P
+<g/>
+,	Fc	,-x	,	Fc	,	0	0
+permitió	VMIS3S0	permitir-v	permitir	VMIS3S0	permitir	0	0
+realizar	VMN0000	realizar-v	realizar	VMN0000	realizar	0	0
+numerosas	AQ0FP00	numeroso-j	numerosa	AQ0FP00	numeroso	F	P
+reflexiones	NCFP000	reflexión-n	reflexión	NCFP000	reflexión	F	P
+<g/>
+,	Fc	,-x	,	Fc	,	0	0
+de	SP	de-i	de	SP	de	0	0
+las	DA0FP0	el-x	la	DA0FP0	el	F	P
+cuales	PR0CP00	cual-p	cual	PR0CP00	cual	0	0
+quiero	VMIP1S0	querer-v	querer	VMIP1S0	querer	0	0
+retomar	VMN0000	retomar-v	retomar	VMN0000	retomar	0	0
+algunas	PI0FP00	alguno-p	alguno	PI0FP00	alguno	F	P
+como	CS	como-c	como	CS	como	0	0
+apoyo	NCMS000	apoyo-n	apoyo	NCMS000	apoyo	M	S
+a	SP	a-i	a	SP	a	M	P
+los	DA0MP0	el-x	el	DA0MP0	el	M	P
+criterios	NCMP000	criterio-n	criterio	NCMP000	criterio	M	P
+expuestos	VMP00PM	exponer-v	expuesto	VMP00PM	exponer	M	P
+<g/>
+.	Fp	.-x	.	Fp	.	0	0
+</s>
+<s>
+1	Z	1-m	1	Z	1	0	0
+<g/>
+.	Fp	.-x	.	Fp	.	0	0
+</s>
+<s>
+Dentro	RG	dentro-r	dentro	RG	dentro	0	0
+de	SP	de-i	de	SP	de	F	S
+la	DA0FS0	el-x	la	DA0FS0	el	F	S
+interrelación	NCFS000	interrelación-n	interrelación	NCFS000	interrelación	F	S
+e	CC	y-c	y	CC	y	0	0
+indivisibilidad	NCFS000	indivisibilidad-n	indivisibilidad	NCFS000	indivisibilidad	F	S
+de	SP	de-i	de	SP	de	M	P
+los	DA0MP0	el-x	el	DA0MP0	el	M	P
+derechos	NCMP000	derecho-n	derecho	NCMP000	derecho	M	P
+humanos	AQ0MP00	humano-j	humano	AQ0MP00	humano	M	P
+la	DA0FS0	el-x	la	DA0FS0	el	F	S
+igualdad	NCFS000	igualdad-n	igualdad	NCFS000	igualdad	F	S
+y	CC	y-c	y	CC	y	0	0
+la	DA0FS0	el-x	la	DA0FS0	el	F	S
+no	RN	no-r	no	RN	no	F	S
+discriminación	NCFS000	discriminación-n	discriminación	NCFS000	discriminación	F	S
+son	VSIP3P0	ser-v	ser	VSIP3P0	ser	0	0
+derechos	NCMP000	derecho-n	derecho	NCMP000	derecho	M	P
+sobre	SP	sobre-i	sobre	SP	sobre	0	0
+los	DA0MP0	el-x	el	DA0MP0	el	M	P
+cuales	PR0CP00	cual-p	cual	PR0CP00	cual	0	0
+<g/>
+,	Fc	,-x	,	Fc	,	0	0
+a	SP	a-i	a	SP	a	F	S
+manera	NCFS000	manera-n	manera	NCFS000	manera	F	S
+de	SP	de-i	de	SP	de	F	S
+plataforma	NCFS000	plataforma-n	plataforma	NCFS000	plataforma	F	S
+<g/>
+,	Fc	,-x	,	Fc	,	0	0
+se	P00CN00	se-p	se	P00CN00	se	0	0
+construyen	VMIP3P0	construir-v	construir	VMIP3P0	construir	0	0
+otros	PI0MP00	otro-p	otro	PI0MP00	otro	M	P
+<g/>
+,	Fc	,-x	,	Fc	,	0	0
+especialmente	RG	especialmente-r	especialmente	RG	especialmente	0	0
+los	DA0MP0	el-x	el	DA0MP0	el	M	P
+derechos	NCMP000	derecho-n	derecho	NCMP000	derecho	M	P
+económicos	AQ0MP00	económico-j	económico	AQ0MP00	económico	M	P
+<g/>
+,	Fc	,-x	,	Fc	,	0	0
+sociales	AQ0CP00	social-j	social	AQ0CP00	social	M,F	P
+y	CC	y-c	y	CC	y	0	0
+culturales	AQ0CP00	cultural-j	cultural	AQ0CP00	cultural	M,F	P
+<g/>
+,	Fc	,-x	,	Fc	,	0	0
+cuyos	PR0MP00	cuyo-p	cuyo	PR0MP00	cuyo	M	P
+contenidos	NCMP000	contenido-n	contenido	NCMP000	contenido	M	P
+no	RN	no-r	no	RN	no	0	0
+pueden	VMIP3P0	poder-v	poder	VMIP3P0	poder	0	0
+prescindir	VMN0000	prescindir-v	prescindir	VMN0000	prescindir	0	0
+de	SP	de-i	de	SP	de	0	0
+aquellos	PD0MP00	aquel-p	aquel	PD0MP00	aquel	M	P
+<g/>
+.	Fp	.-x	.	Fp	.	0	0
+</s>
+<s>
+Cosa	NCFS000	cosa-n	cosa	NCFS000	cosa	F	S
+similar	AQ0CS00	similar-j	similar	AQ0CS00	similar	F	S
+sucede	VMIP3S0	suceder-v	suceder	VMIP3S0	suceder	0	0
+con	SP	con-i	con	SP	con	F	S
+la	DA0FS0	el-x	la	DA0FS0	el	F	S
+libertad	NCFS000	libertad-n	libertad	NCFS000	libertad	F	S
+<g/>
+.	Fp	.-x	.	Fp	.	0	0
+</s>
+<s>
+2	Z	2-m	2	Z	2	0	0
+<g/>
+.	Fp	.-x	.	Fp	.	0	0
+</s>
+<s>
+Inseparable	AQ0CS00	inseparable-j	inseparable	AQ0CS00	inseparable	M,F	S
+de	SP	de-i	de	SP	de	F	S
+la	DA0FS0	el-x	la	DA0FS0	el	F	S
+igualdad	NCFS000	igualdad-n	igualdad	NCFS000	igualdad	F	S
+<g/>
+,	Fc	,-x	,	Fc	,	0	0
+está	VMIP3S0	estar-v	estar	VMIP3S0	estar	0	0
+la	DA0FS0	el-x	la	DA0FS0	el	F	S
+no	RN	no-r	no	RN	no	F	S
+discriminación	NCFS000	discriminación-n	discriminación	NCFS000	discriminación	F	S
+que	PR0CN00	que-p	que	PR0CN00	que	0	0
+determina	VMIP3S0	determinar-v	determinar	VMIP3S0	determinar	0	0
+el	DA0MS0	el-x	el	DA0MS0	el	M	S
+alcance	NCMS000	alcance-n	alcance	NCMS000	alcance	M	S
+de	SP	de-i	de	SP	de	F	S
+la	DA0FS0	el-x	la	DA0FS0	el	F	S
+primera	AO0FS00	primero-j	primera	AO0FS00	primero	F	S
+<g/>
+.	Fp	.-x	.	Fp	.	0	0
+</s>
+<s>
+Al	SP	a-i	a	SP,DA0MS0	a,el	M	S
+momento	NCMS000	momento-n	momento	NCMS000	momento	M	S
+actual	AQ0CS00	actual-j	actual	AQ0CS00	actual	M	S
+de	SP	de-i	de	SP	de	F	S
+la	DA0FS0	el-x	la	DA0FS0	el	F	S
+evolución	NCFS000	evolución-n	evolución	NCFS000	evolución	F	S
+de	SP	de-i	de	SP	de	M	P
+los	DA0MP0	el-x	el	DA0MP0	el	M	P
+derechos	NCMP000	derecho-n	derecho	NCMP000	derecho	M	P
+humanos	AQ0MP00	humano-j	humano	AQ0MP00	humano	M	P
+<g/>
+,	Fc	,-x	,	Fc	,	0	0
+pienso	VMIP1S0	pensar-v	pensar	VMIP1S0	pensar	0	0
+que	CS	que-c	que	CS	que	0	0
+la	DA0FS0	el-x	la	DA0FS0	el	F	S
+igualdad	NCFS000	igualdad-n	igualdad	NCFS000	igualdad	F	S
+y	CC	y-c	y	CC	y	0	0
+la	DA0FS0	el-x	la	DA0FS0	el	F	S
+no	RN	no-r	no	RN	no	F	S
+discriminación	NCFS000	discriminación-n	discriminación	NCFS000	discriminación	F	S
+son	VSIP3P0	ser-v	ser	VSIP3P0	ser	0	0
+dos	Z	2-m	2	Z	2	0	0
+derechos	NCMP000	derecho-n	derecho	NCMP000	derecho	M	P
+de	SP	de-i	de	SP	de	M	S
+contenido	NCMS000	contenido-n	contenido	NCMS000	contenido	M	S
+autónomo	AQ0MS00	autónomo-j	autónomo	AQ0MS00	autónomo	M	S
+que	PR0CN00	que-p	que	PR0CN00	que	0	0
+tienen	VMIP3P0	tener-v	tener	VMIP3P0	tener	0	0
+vida	NCFS000	vida-n	vida	NCFS000	vida	F	S
+propia	AQ0FS00	propio-j	propia	AQ0FS00	propio	F	S
+dentro	RG	dentro-r	dentro	RG	dentro	0	0
+de	SP	de-i	de	SP	de	M	S
+ese	DD0MS0	ese-x	ese	DD0MS0	ese	M	S
+marco	NCMS000	marco-n	marco	NCMS000	marco	M	S
+de	SP	de-i	de	SP	de	F	S
+interrelación	NCFS000	interrelación-n	interrelación	NCFS000	interrelación	F	S
+indivisible	AQ0CS00	indivisible-j	indivisible	AQ0CS00	indivisible	F	S
+<g/>
+.	Fp	.-x	.	Fp	.	0	0
+</s>
+<s>
+3	Z	3-m	3	Z	3	0	0
+<g/>
+.	Fp	.-x	.	Fp	.	0	0
+</s>
+<s>
+Es	VSIP3S0	ser-v	ser	VSIP3S0	ser	0	0
+sabido	VMP00SM	saber-v	sabido	VMP00SM	saber	M	S
+que	CS	que-c	que	CS	que	0	0
+la	DA0FS0	el-x	la	DA0FS0	el	F	S
+igualdad	NCFS000	igualdad-n	igualdad	NCFS000	igualdad	F	S
+reconociendo	VMG0000	reconocer-v	reconocer	VMG0000	reconocer	0	0
+la	DA0FS0	el-x	la	DA0FS0	el	F	S
+diversidad	NCFS000	diversidad-n	diversidad	NCFS000	diversidad	F	S
+de	SP	de-i	de	SP	de	M	P
+los	DA0MP0	el-x	el	DA0MP0	el	M	P
+seres	NCMP000	ser-n	ser	NCMP000	ser	M	P
+humanos	AQ0MP00	humano-j	humano	AQ0MP00	humano	M	P
+acepta	VMIP3S0	aceptar-v	aceptar	VMIP3S0	aceptar	0	0
+y	CC	y-c	y	CC	y	0	0
+propicia	VMIP3S0	propiciar-v	propiciar	VMIP3S0	propiciar	0	0
+determinadas	VMP00PF	determinar-v	determinada	VMP00PF	determinar	F	P
+distinciones	NCFP000	distinción-n	distinción	NCFP000	distinción	F	P
+siempre	RG	siempre-r	siempre	RG	siempre	0	0
+que	CS	que-c	que	CS	que	0	0
+tiendan	VMSP3P0	tender-v	tender	VMSP3P0	tender	0	0
+a	SP	a-i	a	SP	a	0	0
+fortalecer	VMN0000	fortalecer-v	fortalecer	VMN0000	fortalecer	0	0
+<g/>
+,	Fc	,-x	,	Fc	,	0	0
+no	RN	no-r	no	RN	no	0	0
+a	SP	a-i	a	SP	a	0	0
+impedir	VMN0000	impedir-v	impedir	VMN0000	impedir	0	0
+<g/>
+,	Fc	,-x	,	Fc	,	0	0
+el	DA0MS0	el-x	el	DA0MS0	el	M	S
+goce	NCMS000	goce-n	goce	NCMS000	goce	M	S
+y	CC	y-c	y	CC	y	0	0
+el	DA0MS0	el-x	el	DA0MS0	el	M	S
+ejercicio	NCMS000	ejercicio-n	ejercicio	NCMS000	ejercicio	M	S
+de	SP	de-i	de	SP	de	M	P
+todos	DI0MP0	todo-x	todo	DI0MP0	todo	M	P
+los	DA0MP0	el-x	el	DA0MP0	el	M	P
+derechos	NCMP000	derecho-n	derecho	NCMP000	derecho	M	P
+<g/>
+,	Fc	,-x	,	Fc	,	0	0
+incluida	VMP00SF	incluir-v	incluida	VMP00SF	incluir	F	S
+la	DA0FS0	el-x	la	DA0FS0	el	F	S
+misma	AQ0FS00	mismo-j	misma	AQ0FS00	mismo	F	S
+igualdad	NCFS000	igualdad-n	igualdad	NCFS000	igualdad	F	S
+<g/>
+.	Fp	.-x	.	Fp	.	0	0
+</s>
+<s>
+Estas	DD0FP0	este-x	esta	DD0FP0	este	F	P
+distinciones	NCFP000	distinción-n	distinción	NCFP000	distinción	F	P
+<g/>
+,	Fc	,-x	,	Fc	,	0	0
+en	SP	en-i	en	SP	en	F	S
+consecuencia	NCFS000	consecuencia-n	consecuencia	NCFS000	consecuencia	F	S
+<g/>
+,	Fc	,-x	,	Fc	,	0	0
+no	RN	no-r	no	RN	no	0	0
+afectan	VMIP3P0	afectar-v	afectar	VMIP3P0	afectar	0	0
+el	DA0MS0	el-x	el	DA0MS0	el	M	S
+derecho	NCMS000	derecho-n	derecho	NCMS000	derecho	M	S
+a	SP	a-i	a	SP	a	0	0
+no	RN	no-r	no	RN	no	0	0
+ser	VSN0000	ser-v	ser	VSN0000	ser	0	0
+discriminado	VMP00SM	discriminar-v	discriminado	VMP00SM	discriminar	M	S
+<g/>
+.	Fp	.-x	.	Fp	.	0	0
+</s>
+<s>
+Tampoco	RG	tampoco-r	tampoco	RG	tampoco	0	0
+restringen	VMIP3P0	restringir-v	restringir	VMIP3P0	restringir	0	0
+el	DA0MS0	el-x	el	DA0MS0	el	M	S
+concepto	NCMS000	concepto-n	concepto	NCMS000	concepto	M	S
+de	SP	de-i	de	SP	de	F	S
+igualdad	NCFS000	igualdad-n	igualdad	NCFS000	igualdad	F	S
+<g/>
+.	Fp	.-x	.	Fp	.	0	0
+</s>
+<s>
+4	Z	4-m	4	Z	4	0	0
+<g/>
+.	Fp	.-x	.	Fp	.	0	0
+</s>
+<s>
+En	SP	en-i	en	SP	en	M	S
+el	DA0MS0	el-x	el	DA0MS0	el	M	S
+marco	NCMS000	marco-n	marco	NCMS000	marco	M	S
+de	SP	de-i	de	SP	de	F	S
+la	DA0FS0	el-x	la	DA0FS0	el	F	S
+presente	AQ0CS00	presente-j	presente	AQ0CS00	presente	F	S
+Opinión	NPFS000	Opinión-n	opinión	NPFS000	Opinión	F	S
+<g/>
+,	Fc	,-x	,	Fc	,	0	0
+esta	DD0FS0	este-x	esta	DD0FS0	este	F	S
+Corte	NPCS000	Corte-n	corte	NPCS000	Corte	F	S
+ha	VAIP3S0	haber-v	haber	VAIP3S0	haber	0	0
+diferenciado	VMP00SM	diferenciar-v	diferenciado	VMP00SM	diferenciar	M	S
+el	DA0MS0	el-x	el	DA0MS0	el	M	S
+término	NCMS000	término-n	término	NCMS000	término	M	S
+distinción	NCFS000	distinción-n	distinción	NCFS000	distinción	F	S
+de	SP	de-i	de	SP	de	F	S
+la	DA0FS0	el-x	la	DA0FS0	el	F	S
+discriminación	NCFS000	discriminación-n	discriminación	NCFS000	discriminación	F	S
+(	Fpa	(-x	(	Fpa	(	0	0
+<g/>
+párrafo	NCMS000	párrafo-n	párrafo	NCMS000	párrafo	M	S
+84	Z	84-m	84	Z	84	0	0
+<g/>
+)	Fpt	)-x	)	Fpt	)	0	0
+y	CC	y-c	y	CC	y	0	0
+ha	VAIP3S0	haber-v	haber	VAIP3S0	haber	0	0
+señalado	VMP00SM	señalar-v	señalado	VMP00SM	señalar	M	S
+sus	DP3CPN	su-x	su	DP3CPN	su	M	P
+elementos	NCMP000	elemento-n	elemento	NCMP000	elemento	M	P
+caracterizadores	AQ0MP00	caracterizadores-j	caracterizadores	AQ0MP00	caracterizadores	M	P
+<g/>
+,	Fc	,-x	,	Fc	,	0	0
+sobre	SP	sobre-i	sobre	SP	sobre	0	0
+los	DA0MP0	el-x	el	DA0MP0	el	M	P
+cuales	PR0CP00	cual-p	cual	PR0CP00	cual	0	0
+quiero	VMIP1S0	querer-v	querer	VMIP1S0	querer	0	0
+insistir	VMN0000	insistir-v	insistir	VMN0000	insistir	0	0
+<g/>
+.	Fp	.-x	.	Fp	.	0	0
+</s>
+<s>
+5	Z	5-m	5	Z	5	0	0
+<g/>
+.	Fp	.-x	.	Fp	.	0	0
+</s>
+<s>
+El	DA0MS0	el-x	el	DA0MS0	el	M	S
+concepto	NCMS000	concepto-n	concepto	NCMS000	concepto	M	S
+de	SP	de-i	de	SP	de	F	S
+distinción	NCFS000	distinción-n	distinción	NCFS000	distinción	F	S
+se	P00CN00	se-p	se	P00CN00	se	0	0
+refiere	VMIP3S0	referir-v	referir	VMIP3S0	referir	0	0
+al	SP	a-i	a	SP,DA0MS0	a,el	M	S
+trato	NCMS000	trato-n	trato	NCMS000	trato	M	S
+diferente	AQ0CS00	diferente-j	diferente	AQ0CS00	diferente	M	S
+del	SP	de-i	de	SP,DA0MS0	de,el	0	0
+que	PR0CN00	que-p	que	PR0CN00	que	0	0
+se	P00CN00	se-p	se	P00CN00	se	0	0
+aplica	VMIP3S0	aplicar-v	aplicar	VMIP3S0	aplicar	0	0
+de	SP	de-i	de	SP	de	M	S
+modo	NCMS000	modo-n	modo	NCMS000	modo	M	S
+general	AQ0CS00	general-j	general	AQ0CS00	general	M	S
+<g/>
+,	Fc	,-x	,	Fc	,	0	0
+es	VSIP3S0	ser-v	ser	VSIP3S0	ser	0	0
+decir	VMN0000	decir-v	decir	VMN0000	decir	0	0
+<g/>
+,	Fc	,-x	,	Fc	,	0	0
+se	P00CN00	se-p	se	P00CN00	se	0	0
+singulariza	VMIP3S0	singularizar-v	singularizar	VMIP3S0	singularizar	0	0
+una	DI0FS0	uno-x	una	DI0FS0	uno	F	S
+situación	NCFS000	situación-n	situación	NCFS000	situación	F	S
+concreta	AQ0FS00	concreto-j	concreta	AQ0FS00	concreto	F	S
+con	SP	con-i	con	SP	con	M	S
+fundamento	NCMS000	fundamento-n	fundamento	NCMS000	fundamento	M	S
+en	SP	en-i	en	SP	en	F	P
+determinadas	VMP00PF	determinar-v	determinada	VMP00PF	determinar	F	P
+razones	NCFP000	razón-n	razón	NCFP000	razón	F	P
+<g/>
+.	Fp	.-x	.	Fp	.	0	0
+</s>
+<s>
+Para	SP	para-i	para	SP	para	0	0
+que	CS	que-c	que	CS	que	0	0
+la	DA0FS0	el-x	la	DA0FS0	el	F	S
+distinción	NCFS000	distinción-n	distinción	NCFS000	distinción	F	S
+no	RN	no-r	no	RN	no	0	0
+se	P00CN00	se-p	se	P00CN00	se	0	0
+convierta	VMSP3S0	convertir-v	convertir	VMSP3S0	convertir	0	0
+en	SP	en-i	en	SP	en	F	S
+discriminación	NCFS000	discriminación-n	discriminación	NCFS000	discriminación	F	S
+debe	VMIP3S0	deber-v	deber	VMIP3S0	deber	0	0
+cumplir	VMN0000	cumplir-v	cumplir	VMN0000	cumplir	0	0
+con	SP	con-i	con	SP	con	F	P
+las	DA0FP0	el-x	la	DA0FP0	el	F	P
+siguientes	AQ0CP00	siguiente-j	siguiente	AQ0CP00	siguiente	F	P
+exigencias	NCFP000	exigencia-n	exigencia	NCFP000	exigencia	F	P
+<g/>
+,	Fc	,-x	,	Fc	,	0	0
+establecidas	VMP00PF	establecer-v	establecida	VMP00PF	establecer	F	P
+por	SP	por-i	por	SP	por	F	S
+la	DA0FS0	el-x	la	DA0FS0	el	F	S
+doctrina	NCFS000	doctrina-n	doctrina	NCFS000	doctrina	F	S
+y	CC	y-c	y	CC	y	0	0
+la	DA0FS0	el-x	la	DA0FS0	el	F	S
+jurisprudencia	NCFS000	jurisprudencia-n	jurisprudencia	NCFS000	jurisprudencia	F	S
+de	SP	de-i	de	SP	de	M	P
+los	DA0MP0	el-x	el	DA0MP0	el	M	P
+derechos	NCMP000	derecho-n	derecho	NCMP000	derecho	M	P
+humanos	AQ0MP00	humano-j	humano	AQ0MP00	humano	M	P
+<g/>
+.	Fp	.-x	.	Fp	.	0	0
+</s>
+<s>
+6	Z	6-m	6	Z	6	0	0
+<g/>
+.	Fp	.-x	.	Fp	.	0	0
+</s>
+<s>
+Que	CS	que-c	que	CS	que	0	0
+persiga	VMSP3S0	perseguir-v	perseguir	VMSP3S0	perseguir	0	0
+un	DI0MS0	uno-x	un	DI0MS0	uno	M	S
+fin	NCMS000	fin-n	fin	NCMS000	fin	M	S
+legítimo	AQ0MS00	legítimo-j	legítimo	AQ0MS00	legítimo	M	S
+y	CC	y-c	y	CC	y	0	0
+que	CS	que-c	que	CS	que	0	0
+tengan	VMSP3P0	tener-v	tener	VMSP3P0	tener	0	0
+carácter	NCMS000	carácter-n	carácter	NCMS000	carácter	M	S
+objetivo	NCMS000	objetivo-n	objetivo	NCMS000	objetivo	M	S
+<g/>
+,	Fc	,-x	,	Fc	,	0	0
+en	SP	en-i	en	SP	en	M	S
+el	DA0MS0	el-x	el	DA0MS0	el	M	S
+sentido	NCMS000	sentido-n	sentido	NCMS000	sentido	M	S
+de	SP	de-i	de	SP	de	0	0
+que	CS	que-c	que	CS	que	0	0
+haya	VMSP3S0	haber-v	haber	VMSP3S0	haber	0	0
+una	DI0FS0	uno-x	una	DI0FS0	uno	F	S
+diferencia	NCFS000	diferencia-n	diferencia	NCFS000	diferencia	F	S
+sustancial	AQ0CS00	sustancial-j	sustancial	AQ0CS00	sustancial	F	S
+y	CC	y-c	y	CC	y	0	0
+no	RN	no-r	no	RN	no	0	0
+meramente	RG	meramente-r	meramente	RG	meramente	0	0
+formal	AQ0CS00	formal-j	formal	AQ0CS00	formal	M,F	S
+<g/>
+,	Fc	,-x	,	Fc	,	0	0
+pues	CS	pues-c	pues	CS	pues	0	0
+como	CS	como-c	como	CS	como	0	0
+señaló	VMIS3S0	señalar-v	señalar	VMIS3S0	señalar	0	0
+esta	DD0FS0	este-x	esta	DD0FS0	este	F	S
+Corte	NPCS000	Corte-n	corte	NPCS000	Corte	F	S
+la	DA0FS0	el-x	la	DA0FS0	el	F	S
+distinción	NCFS000	distinción-n	distinción	NCFS000	distinción	F	S
+de	SP	de-i	de	SP	de	M	S
+trato	NCMS000	trato-n	trato	NCMS000	trato	M	S
+debe	VMIP3S0	deber-v	deber	VMIP3S0	deber	0	0
+estar	VMN0000	estar-v	estar	VMN0000	estar	0	0
+fundada	VMP00SF	fundar-v	fundada	VMP00SF	fundar	F	S
+en	SP	en-i	en	SP	en	0	0
+"	Fe	"-x	"	Fe	"	0	0
+<g/>
+supuestos	NCMP000	supuesto-n	supuesto	NCMP000	supuesto	M	P
+de	SP	de-i	de	SP	de	M	S
+hecho	NCMS000	hecho-n	hecho	NCMS000	hecho	M	S
+sustancialmente	RG	sustancialmente-r	sustancialmente	RG	sustancialmente	0	0
+diferentes	AQ0CP00	diferente-j	diferente	AQ0CP00	diferente	M,F	P
+y	CC	y-c	y	CC	y	0	0
+que	CS	que-c	que	CS	que	0	0
+expresen	VMSP3P0	expresar-v	expresar	VMSP3P0	expresar	0	0
+de	SP	de-i	de	SP	de	M	S
+modo	NCMS000	modo-n	modo	NCMS000	modo	M	S
+proporcionado	VMP00SM	proporcionar-v	proporcionado	VMP00SM	proporcionar	M	S
+una	DI0FS0	uno-x	una	DI0FS0	uno	F	S
+fundamentada	VMP00SF	fundamentar-v	fundamentada	VMP00SF	fundamentar	F	S
+conexión	NCFS000	conexión-n	conexión	NCFS000	conexión	F	S
+entre	SP	entre-i	entre	SP	entre	F	P
+esas	DD0FP0	ese-x	esa	DD0FP0	ese	F	P
+diferencias	NCFP000	diferencia-n	diferencia	NCFP000	diferencia	F	P
+y	CC	y-c	y	CC	y	0	0
+los	DA0MP0	el-x	el	DA0MP0	el	M	P
+objetivos	NCMP000	objetivo-n	objetivo	NCMP000	objetivo	M	P
+de	SP	de-i	de	SP	de	F	S
+la	DA0FS0	el-x	la	DA0FS0	el	F	S
+norma	NCFS000	norma-n	norma	NCFS000	norma	F	S
+<g/>
+"	Fe	"-x	"	Fe	"	0	0
+<g/>
+.1	Z	.1-m	.1	Z	.1	0	0
+7	Z	7-m	7	Z	7	0	0
+<g/>
+.	Fp	.-x	.	Fp	.	0	0
+</s>
+<s>
+Además	RG	además-r	además	RG	además	0	0
+<g/>
+,	Fc	,-x	,	Fc	,	0	0
+esa	DD0FS0	ese-x	esa	DD0FS0	ese	F	S
+diferencia	NCFS000	diferencia-n	diferencia	NCFS000	diferencia	F	S
+debe	VMIP3S0	deber-v	deber	VMIP3S0	deber	0	0
+ser	VSN0000	ser-v	ser	VSN0000	ser	0	0
+relevante	AQ0CS00	relevante-j	relevante	AQ0CS00	relevante	M,F	S
+<g/>
+,	Fc	,-x	,	Fc	,	0	0
+poseer	VMN0000	poseer-v	poseer	VMN0000	poseer	0	0
+una	DI0FS0	uno-x	una	DI0FS0	uno	F	S
+importancia	NCFS000	importancia-n	importancia	NCFS000	importancia	F	S
+suficiente	AQ0CS00	suficiente-j	suficiente	AQ0CS00	suficiente	F	S
+para	SP	para-i	para	SP	para	0	0
+justificar	VMN0000	justificar-v	justificar	VMN0000	justificar	0	0
+un	DI0MS0	uno-x	un	DI0MS0	uno	M	S
+trato	NCMS000	trato-n	trato	NCMS000	trato	M	S
+distinto	AQ0MS00	distinto-j	distinto	AQ0MS00	distinto	M	S
+<g/>
+,	Fc	,-x	,	Fc	,	0	0
+y	CC	y-c	y	CC	y	0	0
+ser	VSN0000	ser-v	ser	VSN0000	ser	0	0
+necesaria	AQ0FS00	necesario-j	necesaria	AQ0FS00	necesario	F	S
+y	CC	y-c	y	CC	y	0	0
+no	RN	no-r	no	RN	no	0	0
+únicamente	RG	únicamente-r	únicamente	RG	únicamente	0	0
+conveniente	AQ0CS00	conveniente-j	conveniente	AQ0CS00	conveniente	M,F	S
+o	CC	o-c	o	CC	o	0	0
+útil	AQ0CS00	útil-j	útil	AQ0CS00	útil	M,F	S
+<g/>
+.	Fp	.-x	.	Fp	.	0	0
+</s>
+<s>
+Por	SP	por-i	por	SP	por	M	S
+ejemplo	NCMS000	ejemplo-n	ejemplo	NCMS000	ejemplo	M	S
+<g/>
+,	Fc	,-x	,	Fc	,	0	0
+no	RN	no-r	no	RN	no	0	0
+basta	VMIP3S0	bastar-v	bastar	VMIP3S0	bastar	0	0
+la	DA0FS0	el-x	la	DA0FS0	el	F	S
+diferencia	NCFS000	diferencia-n	diferencia	NCFS000	diferencia	F	S
+varón-mujer	NCFS000	varón-mujer-n	varón-mujer	NCFS000	varón-mujer	F	S
+para	SP	para-i	para	SP	para	0	0
+imponer	VMN0000	imponer-v	imponer	VMN0000	imponer	0	0
+un	DI0MS0	uno-x	un	DI0MS0	uno	M	S
+trato	NCMS000	trato-n	trato	NCMS000	trato	M	S
+distinto	AQ0MS00	distinto-j	distinto	AQ0MS00	distinto	M	S
+en	SP	en-i	en	SP	en	M	S
+el	DA0MS0	el-x	el	DA0MS0	el	M	S
+trabajo	NCMS000	trabajo-n	trabajo	NCMS000	trabajo	M	S
+<g/>
+,	Fc	,-x	,	Fc	,	0	0
+pero	CC	pero-c	pero	CC	pero	0	0
+sí	RG	sí-r	sí	RG	sí	0	0
+lo	PP3MSA0	lo-p	lo	PP3MSA0	lo	0	0
+es	VSIP3S0	ser-v	ser	VSIP3S0	ser	0	0
+el	DA0MS0	el-x	el	DA0MS0	el	M	S
+hecho	NCMS000	hecho-n	hecho	NCMS000	hecho	M	S
+del	SP	de-i	de	SP,DA0MS0	de,el	M	S
+embarazo	NCMS000	embarazo-n	embarazo	NCMS000	embarazo	M	S
+y	CC	y-c	y	CC	y	0	0
+de	SP	de-i	de	SP	de	F	S
+la	DA0FS0	el-x	la	DA0FS0	el	F	S
+maternidad	NCFS000	maternidad-n	maternidad	NCFS000	maternidad	F	S
+<g/>
+.	Fp	.-x	.	Fp	.	0	0
+</s>
+<s>
+8	Z	8-m	8	Z	8	0	0
+<g/>
+.	Fp	.-x	.	Fp	.	0	0
+</s>
+<s>
+Debe	VMIP3S0	deber-v	deber	VMIP3S0	deber	0	0
+haber	VMN0000	haber-v	haber	VMN0000	haber	0	0
+proporcionalidad	NCFS000	proporcionalidad-n	proporcionalidad	NCFS000	proporcionalidad	F	S
+entre	SP	entre-i	entre	SP	entre	F	S
+la	DA0FS0	el-x	la	DA0FS0	el	F	S
+diferencia	NCFS000	diferencia-n	diferencia	NCFS000	diferencia	F	S
+fáctica	AQ0FS00	fáctico-j	fáctica	AQ0FS00	fáctico	F	S
+y	CC	y-c	y	CC	y	0	0
+la	DA0FS0	el-x	la	DA0FS0	el	F	S
+jurídica	AQ0FS00	jurídico-j	jurídica	AQ0FS00	jurídico	F	S
+<g/>
+,	Fc	,-x	,	Fc	,	0	0
+entre	SP	entre-i	entre	SP	entre	M	P
+los	DA0MP0	el-x	el	DA0MP0	el	M	P
+medios	NCMP000	medio-n	medio	NCMP000	medio	M	P
+escogidos	VMP00PM	escoger-v	escogido	VMP00PM	escoger	M	P
+y	CC	y-c	y	CC	y	0	0
+los	DA0MP0	el-x	el	DA0MP0	el	M	P
+fines	NCMP000	fin-n	fin	NCMP000	fin	M	P
+<g/>
+;	Fx	;-x	;	Fx	;	0	0
+la	DA0FS0	el-x	la	DA0FS0	el	F	S
+desproporción	NCFS000	desproporción-n	desproporción	NCFS000	desproporción	F	S
+entre	SP	entre-i	entre	SP	entre	M	S
+el	DA0MS0	el-x	el	DA0MS0	el	M	S
+contenido	NCMS000	contenido-n	contenido	NCMS000	contenido	M	S
+del	SP	de-i	de	SP,DA0MS0	de,el	M	S
+trato	NCMS000	trato-n	trato	NCMS000	trato	M	S
+diferente	AQ0CS00	diferente-j	diferente	AQ0CS00	diferente	M	S
+y	CC	y-c	y	CC	y	0	0
+la	DA0FS0	el-x	la	DA0FS0	el	F	S
+finalidad	NCFS000	finalidad-n	finalidad	NCFS000	finalidad	F	S
+propuesta	NCFS000	propuesta-n	propuesta	NCFS000	propuesta	F	S
+lleva	VMIP3S0	llevar-v	llevar	VMIP3S0	llevar	0	0
+a	SP	a-i	a	SP	a	F	S
+la	DA0FS0	el-x	la	DA0FS0	el	F	S
+discriminación	NCFS000	discriminación-n	discriminación	NCFS000	discriminación	F	S
+<g/>
+.	Fp	.-x	.	Fp	.	0	0
+</s>
+<s>
+Por	SP	por-i	por	SP	por	M	S
+ejemplo	NCMS000	ejemplo-n	ejemplo	NCMS000	ejemplo	M	S
+<g/>
+,	Fc	,-x	,	Fc	,	0	0
+para	SP	para-i	para	SP	para	0	0
+mantener	VMN0000	mantener-v	mantener	VMN0000	mantener	0	0
+una	DI0FS0	uno-x	una	DI0FS0	uno	F	S
+1	Z	1-m	1	Z	1	0	0
+Corte	NPCS000	Corte-n	corte	NPCS000	Corte	M,F	S
+I.D.H.	NP00000	I.D.H.-n	i.d.h.	NP00000	I.D.H.	M,F	S
+<g/>
+,	Fc	,-x	,	Fc	,	0	0
+Propuesta	NPFS000	Propuesta-n	propuesta	NPFS000	Propuesta	F	S
+de	SP	de-i	de	SP	de	F	S
+modificación	NCFS000	modificación-n	modificación	NCFS000	modificación	F	S
+a	SP	a-i	a	SP	a	F	S
+la	DA0FS0	el-x	la	DA0FS0	el	F	S
+Constitución	NPFS000	Constitución-n	constitución	NPFS000	Constitución	F	S
+Política	AQ0FS00	político-j	política	AQ0FS00	político	F	S
+de	SP	de-i	de	SP	de	F	S
+Costa	NPFS000	Costa-n	costa	NPFS000	Costa	F	S
+Rica	AQ0FS00	rico-j	rica	AQ0FS00	rico	F	S
+relacionada	VMP00SF	relacionar-v	relacionada	VMP00SF	relacionar	F	S
+con	SP	con-i	con	SP	con	F	S
+la	DA0FS0	el-x	la	DA0FS0	el	F	S
+naturalización	NCFS000	naturalización-n	naturalización	NCFS000	naturalización	F	S
+<g/>
+.	Fp	.-x	.	Fp	.	0	0
+</s>
+<s>
+Opinión	NCFS000	opinión-n	opinión	NCFS000	opinión	F	S
+Consultiva	AQ0FS00	consultivo-j	consultiva	AQ0FS00	consultivo	F	S
+OC-4/84	NP00000	OC-4/84-n	oc-4/84	NP00000	OC-4/84	F	S
+del	SP	de-i	de	SP,DA0MS0	de,el	0	0
+19	Z	19-m	19	Z	19	0	0
+de	SP	de-i	de	SP	de	M	S
+enero	NCMS000	enero-n	enero	NCMS000	enero	M	S
+de	SP	de-i	de	SP	de	0	0
+1984	Z	1984-m	1984	Z	1984	0	0
+<g/>
+.	Fp	.-x	.	Fp	.	0	0
+</s>
+<s>
+Serie	NCFS000	serie-n	serie	NCFS000	serie	F	S
+A	SP	a-i	a	SP	a	0	0
+No	RN	no-r	no	RN	no	0	0
+<g/>
+.	Fp	.-x	.	Fp	.	0	0
+4	Z	4-m	4	Z	4	0	0
+<g/>
+,	Fc	,-x	,	Fc	,	0	0
+párr.	VMIP3S0	párr.-v	párr.	VMIP3S0	párr.	0	0
+57	Z	57-m	57	Z	57	0	0
+<g/>
+.	Fp	.-x	.	Fp	.	0	0
+</s>
+<s>
+2	Z	2-m	2	Z	2	0	0
+política	NCFS000	política-n	política	NCFS000	política	F	S
+laboral	AQ0CS00	laboral-j	laboral	AQ0CS00	laboral	F	S
+se	P00CN00	se-p	se	P00CN00	se	0	0
+dispone	VMIP3S0	disponer-v	disponer	VMIP3S0	disponer	0	0
+que	CS	que-c	que	CS	que	0	0
+al	SP	a-i	a	SP,DA0MS0	a,el	M	S
+trabajador	NCMS000	trabajador-n	trabajador	NCMS000	trabajador	M	S
+indocumentado	AQ0MS00	indocumentado-j	indocumentado	AQ0MS00	indocumentado	M	S
+se	P00CN00	se-p	se	P00CN00	se	0	0
+le	PP3CSD0	le-p	le	PP3CSD0	le	0	0
+despoje	VMSP3S0	despojar-v	despojar	VMSP3S0	despojar	0	0
+de	SP	de-i	de	SP	de	M	P
+sus	DP3CPN	su-x	su	DP3CPN	su	M	P
+derechos	NCMP000	derecho-n	derecho	NCMP000	derecho	M	P
+fundamentales	AQ0CP00	fundamental-j	fundamental	AQ0CP00	fundamental	M	P
+<g/>
+.	Fp	.-x	.	Fp	.	0	0
+</s>
+<s>
+9	Z	9-m	9	Z	9	0	0
+<g/>
+.	Fp	.-x	.	Fp	.	0	0
+</s>
+<s>
+Junto	RG	junto-r	junto	RG	junto	0	0
+a	SP	a-i	a	SP	a	F	S
+la	DA0FS0	el-x	la	DA0FS0	el	F	S
+proporcionalidad	NCFS000	proporcionalidad-n	proporcionalidad	NCFS000	proporcionalidad	F	S
+suele	VMIP3S0	soler-v	soler	VMIP3S0	soler	0	0
+señalarse	VMN0000	señalar-v	señalar	VMN0000,PP3CN00	señalar,se	0	0
+la	DA0FS0	el-x	la	DA0FS0	el	F	S
+idoneidad	NCFS000	idoneidad-n	idoneidad	NCFS000	idoneidad	F	S
+o	CC	o-c	o	CC	o	0	0
+adecuación	NCFS000	adecuación-n	adecuación	NCFS000	adecuación	F	S
+<g/>
+,	Fc	,-x	,	Fc	,	0	0
+referida	VMP00SF	referir-v	referida	VMP00SF	referir	F	S
+a	SP	a-i	a	SP	a	F	P
+las	DA0FP0	el-x	la	DA0FP0	el	F	P
+consecuencias	NCFP000	consecuencia-n	consecuencia	NCFP000	consecuencia	F	P
+jurídicas	AQ0FP00	jurídico-j	jurídica	AQ0FP00	jurídico	F	P
+que	PR0CN00	que-p	que	PR0CN00	que	0	0
+se	P00CN00	se-p	se	P00CN00	se	0	0
+quieren	VMIP3P0	querer-v	querer	VMIP3P0	querer	0	0
+alcanzar	VMN0000	alcanzar-v	alcanzar	VMN0000	alcanzar	0	0
+con	SP	con-i	con	SP	con	M	S
+el	DA0MS0	el-x	el	DA0MS0	el	M	S
+trato	NCMS000	trato-n	trato	NCMS000	trato	M	S
+diferenciado	VMP00SM	diferenciar-v	diferenciado	VMP00SM	diferenciar	M	S
+y	CC	y-c	y	CC	y	0	0
+tomando	VMG0000	tomar-v	tomar	VMG0000	tomar	0	0
+en	SP	en-i	en	SP	en	0	0
+cuenta	VMIP3S0	contar-v	contar	VMIP3S0	contar	0	0
+las	DA0FP0	el-x	la	DA0FP0	el	F	P
+condiciones	NCFP000	condición-n	condición	NCFP000	condición	F	P
+concretas	AQ0FP00	concreto-j	concreta	AQ0FP00	concreto	F	P
+y	CC	y-c	y	CC	y	0	0
+actuales	AQ0CP00	actual-j	actual	AQ0CP00	actual	M,F	P
+en	SP	en-i	en	SP	en	0	0
+que	PR0CN00	que-p	que	PR0CN00	que	0	0
+se	P00CN00	se-p	se	P00CN00	se	0	0
+va	VMIP3S0	ir-v	ir	VMIP3S0	ir	0	0
+a	SP	a-i	a	SP	a	0	0
+aplicar	VMN0000	aplicar-v	aplicar	VMN0000	aplicar	0	0
+la	DA0FS0	el-x	la	DA0FS0	el	F	S
+distinción	NCFS000	distinción-n	distinción	NCFS000	distinción	F	S
+<g/>
+.	Fp	.-x	.	Fp	.	0	0
+</s>
+<s>
+10	Z	10-m	10	Z	10	0	0
+<g/>
+.	Fp	.-x	.	Fp	.	0	0
+</s>
+<s>
+Pero	CC	pero-c	pero	CC	pero	0	0
+hay	VMIP3S0	haber-v	haber	VMIP3S0	haber	0	0
+un	DI0MS0	uno-x	un	DI0MS0	uno	M	S
+común	AQ0CS00	común-j	común	AQ0CS00	común	M	S
+denominador	NCMS000	denominador-n	denominador	NCMS000	denominador	M	S
+frente	RG	frente-r	frente	RG	frente	0	0
+a	SP	a-i	a	SP	a	M	P
+los	DA0MP0	el-x	el	DA0MP0	el	M	P
+anteriores	AQ0CP00	anterior-j	anterior	AQ0CP00	anterior	M	P
+<g/>
+,	Fc	,-x	,	Fc	,	0	0
+que	PR0CN00	que-p	que	PR0CN00	que	0	0
+afina	VMIP3S0	afinar-v	afinar	VMIP3S0	afinar	0	0
+el	DA0MS0	el-x	el	DA0MS0	el	M	S
+contenido	NCMS000	contenido-n	contenido	NCMS000	contenido	M	S
+y	CC	y-c	y	CC	y	0	0
+alcance	NCMS000	alcance-n	alcance	NCMS000	alcance	M	S
+de	SP	de-i	de	SP	de	M	P
+los	DA0MP0	el-x	el	DA0MP0	el	M	P
+otros	DI0MP0	otro-x	otro	DI0MP0	otro	M	P
+elementos	NCMP000	elemento-n	elemento	NCMP000	elemento	M	P
+<g/>
+,	Fc	,-x	,	Fc	,	0	0
+y	CC	y-c	y	CC	y	0	0
+es	VSIP3S0	ser-v	ser	VSIP3S0	ser	0	0
+la	DA0FS0	el-x	la	DA0FS0	el	F	S
+razonabilidad	NCFS000	razonabilidad-n	razonabilidad	NCFS000	razonabilidad	F	S
+<g/>
+.	Fp	.-x	.	Fp	.	0	0
+</s>
+<s>
+El	DA0MS0	el-x	el	DA0MS0	el	M	S
+empleo	NCMS000	empleo-n	empleo	NCMS000	empleo	M	S
+de	SP	de-i	de	SP	de	M	P
+estos	DD0MP0	este-x	este	DD0MP0	este	M	P
+elementos	NCMP000	elemento-n	elemento	NCMP000	elemento	M	P
+permite	VMIP3S0	permitir-v	permitir	VMIP3S0	permitir	0	0
+detectar	VMN0000	detectar-v	detectar	VMN0000	detectar	0	0
+la	DA0FS0	el-x	la	DA0FS0	el	F	S
+presencia	NCFS000	presencia-n	presencia	NCFS000	presencia	F	S
+de	SP	de-i	de	SP	de	F	S
+la	DA0FS0	el-x	la	DA0FS0	el	F	S
+discriminación	NCFS000	discriminación-n	discriminación	NCFS000	discriminación	F	S
+en	SP	en-i	en	SP	en	0	0
+una	DI0FS0	uno-x	una	DI0FS0	uno	F	S
+"	Fe	"-x	"	Fe	"	0	0
+<g/>
+categoría	NCFS000	categoría-n	categoría	NCFS000	categoría	F	S
+sospechosa	AQ0FS00	sospechoso-j	sospechosa	AQ0FS00	sospechoso	F	S
+<g/>
+"	Fe	"-x	"	Fe	"	0	0
+<g/>
+,	Fc	,-x	,	Fc	,	0	0
+dada	VMP00SF	dar-v	dada	VMP00SF	dar	F	S
+en	SP	en-i	en	SP	en	M	S
+el	DA0MS0	el-x	el	DA0MS0	el	M	S
+presente	AQ0CS00	presente-j	presente	AQ0CS00	presente	M	S
+caso	NCMS000	caso-n	caso	NCMS000	caso	M	S
+<g/>
+,	Fc	,-x	,	Fc	,	0	0
+por	SP	por-i	por	SP	por	M	P
+los	DA0MP0	el-x	el	DA0MP0	el	M	P
+migrantes	AQ0CP00	migrante-j	migrante	AQ0CP00	migrante	M	P
+trabajadores	NCMP000	trabajador-n	trabajador	NCMP000	trabajador	M	P
+indocumentados	AQ0MP00	indocumentado-j	indocumentado	AQ0MP00	indocumentado	M	P
+<g/>
+.	Fp	.-x	.	Fp	.	0	0
+</s>
+<s>
+11	Z	11-m	11	Z	11	0	0
+<g/>
+.	Fp	.-x	.	Fp	.	0	0
+</s>
+<s>
+Los	DA0MP0	el-x	el	DA0MP0	el	M	P
+migrantes	AQ0CP00	migrante-j	migrante	AQ0CP00	migrante	M	P
+trabajadores	NCMP000	trabajador-n	trabajador	NCMP000	trabajador	M	P
+indocumentados	AQ0MP00	indocumentado-j	indocumentado	AQ0MP00	indocumentado	M	P
+tienen	VMIP3P0	tener-v	tener	VMIP3P0	tener	0	0
+-	Fg	--x	-	Fg	-	0	0
+<g/>
+como	CS	como-c	como	CS	como	0	0
+todo	DI0MS0	todo-x	todo	DI0MS0	todo	M	S
+ser	NCMS000	ser-n	ser	NCMS000	ser	M	S
+humano	AQ0MS00	humano-j	humano	AQ0MS00	humano	M	S
+<g/>
+-	Fg	--x	-	Fg	-	0	0
+los	DA0MP0	el-x	el	DA0MP0	el	M	P
+derechos	NCMP000	derecho-n	derecho	NCMP000	derecho	M	P
+de	SP	de-i	de	SP	de	F	S
+igualdad	NCFS000	igualdad-n	igualdad	NCFS000	igualdad	F	S
+ante	SP	ante-i	ante	SP	ante	F	S
+la	DA0FS0	el-x	la	DA0FS0	el	F	S
+ley	NCFS000	ley-n	ley	NCFS000	ley	F	S
+y	CC	y-c	y	CC	y	0	0
+de	SP	de-i	de	SP	de	0	0
+no	RN	no-r	no	RN	no	0	0
+ser	VSN0000	ser-v	ser	VSN0000	ser	0	0
+discriminados	VMP00PM	discriminar-v	discriminado	VMP00PM	discriminar	M	P
+<g/>
+.	Fp	.-x	.	Fp	.	0	0
+</s>
+<s>
+12	Z	12-m	12	Z	12	0	0
+<g/>
+.	Fp	.-x	.	Fp	.	0	0
+</s>
+<s>
+La	DA0FS0	el-x	la	DA0FS0	el	F	S
+igualdad	NCFS000	igualdad-n	igualdad	NCFS000	igualdad	F	S
+ante	SP	ante-i	ante	SP	ante	F	S
+la	DA0FS0	el-x	la	DA0FS0	el	F	S
+ley	NCFS000	ley-n	ley	NCFS000	ley	F	S
+significa	VMIP3S0	significar-v	significar	VMIP3S0	significar	0	0
+que	CS	que-c	que	CS	que	0	0
+deben	VMIP3P0	deber-v	deber	VMIP3P0	deber	0	0
+ser	VSN0000	ser-v	ser	VSN0000	ser	0	0
+tratados	VMP00PM	tratar-v	tratado	VMP00PM	tratar	M	P
+de	SP	de-i	de	SP	de	F	S
+la	DA0FS0	el-x	la	DA0FS0	el	F	S
+misma	AQ0FS00	mismo-j	misma	AQ0FS00	mismo	F	S
+manera	NCFS000	manera-n	manera	NCFS000	manera	F	S
+que	PR0CN00	que-p	que	PR0CN00	que	0	0
+los	DA0MP0	el-x	el	DA0MP0	el	M	P
+migrantes	AQ0CP00	migrante-j	migrante	AQ0CP00	migrante	M	P
+documentados	VMP00PM	documentar-v	documentado	VMP00PM	documentar	M	P
+y	CC	y-c	y	CC	y	0	0
+que	CS	que-c	que	CS	que	0	0
+los	DA0MP0	el-x	el	DA0MP0	el	M	P
+nacionales	AQ0CP00	nacional-j	nacional	AQ0CP00	nacional	M	P
+<g/>
+,	Fc	,-x	,	Fc	,	0	0
+ante	SP	ante-i	ante	SP	ante	F	S
+la	DA0FS0	el-x	la	DA0FS0	el	F	S
+ley	NCFS000	ley-n	ley	NCFS000	ley	F	S
+del	SP	de-i	de	SP,DA0MS0	de,el	M	S
+país	NCMS000	país-n	país	NCMS000	país	M	S
+receptor	AQ0MS00	receptor-j	receptor	AQ0MS00	receptor	M	S
+<g/>
+.	Fp	.-x	.	Fp	.	0	0
+</s>
+<s>
+La	DA0FS0	el-x	la	DA0FS0	el	F	S
+prohibición	NCFS000	prohibición-n	prohibición	NCFS000	prohibición	F	S
+de	SP	de-i	de	SP	de	0	0
+trabajar	VMN0000	trabajar-v	trabajar	VMN0000	trabajar	0	0
+tiene	VMIP3S0	tener-v	tener	VMIP3S0	tener	0	0
+que	CS	que-c	que	CS	que	0	0
+ser	VSN0000	ser-v	ser	VSN0000	ser	0	0
+considerada	VMP00SF	considerar-v	considerada	VMP00SF	considerar	F	S
+en	SP	en-i	en	SP	en	M	S
+este	DD0MS0	este-x	este	DD0MS0	este	M	S
+contexto	NCMS000	contexto-n	contexto	NCMS000	contexto	M	S
+<g/>
+.	Fp	.-x	.	Fp	.	0	0
+</s>
+<s>
+La	DA0FS0	el-x	la	DA0FS0	el	F	S
+condición	NCFS000	condición-n	condición	NCFS000	condición	F	S
+de	SP	de-i	de	SP	de	M	S
+trabajador	NCMS000	trabajador-n	trabajador	NCMS000	trabajador	M	S
+indocumentado	AQ0MS00	indocumentado-j	indocumentado	AQ0MS00	indocumentado	M	S
+no	RN	no-r	no	RN	no	0	0
+puede	VMIP3S0	poder-v	poder	VMIP3S0	poder	0	0
+convertirse	VMN0000	convertir-v	convertir	VMN0000,PP3CN00	convertir,se	0	0
+jamás	RG	jamás-r	jamás	RG	jamás	0	0
+en	SP	en-i	en	SP	en	M	S
+fundamento	NCMS000	fundamento-n	fundamento	NCMS000	fundamento	M	S
+para	SP	para-i	para	SP	para	0	0
+que	CS	que-c	que	CS	que	0	0
+no	RN	no-r	no	RN	no	0	0
+tenga	VMSP3S0	tener-v	tener	VMSP3S0	tener	0	0
+acceso	NCMS000	acceso-n	acceso	NCMS000	acceso	M	S
+a	SP	a-i	a	SP	a	F	S
+la	DA0FS0	el-x	la	DA0FS0	el	F	S
+justicia	NCFS000	justicia-n	justicia	NCFS000	justicia	F	S
+y	CC	y-c	y	CC	y	0	0
+al	SP	a-i	a	SP,DA0MS0	a,el	M	S
+debido	VMP00SM	deber-v	debido	VMP00SM	deber	M	S
+proceso	NCMS000	proceso-n	proceso	NCMS000	proceso	M	S
+<g/>
+,	Fc	,-x	,	Fc	,	0	0
+para	SP	para-i	para	SP	para	0	0
+perder	VMN0000	perder-v	perder	VMN0000	perder	0	0
+salarios	NCMP000	salario-n	salario	NCMP000	salario	M	P
+devengados	VMP00PM	devengar-v	devengado	VMP00PM	devengar	M	P
+<g/>
+,	Fc	,-x	,	Fc	,	0	0
+no	RN	no-r	no	RN	no	0	0
+tener	VMN0000	tener-v	tener	VMN0000	tener	0	0
+prestaciones	NCFP000	prestación-n	prestación	NCFP000	prestación	F	P
+sociales	AQ0CP00	social-j	social	AQ0CP00	social	F	P
+y	CC	y-c	y	CC	y	0	0
+ser	VSN0000	ser-v	ser	VSN0000	ser	0	0
+objeto	NCMS000	objeto-n	objeto	NCMS000	objeto	M	S
+de	SP	de-i	de	SP	de	M	P
+diversos	DI0MP0	diverso-x	diverso	DI0MP0	diverso	M	P
+abusos	NCMP000	abuso-n	abuso	NCMP000	abuso	M	P
+y	CC	y-c	y	CC	y	0	0
+arbitrariedades	NCFP000	arbitrariedad-n	arbitrariedad	NCFP000	arbitrariedad	F	P
+<g/>
+.	Fp	.-x	.	Fp	.	0	0
+</s>
+<s>
+13	Z	13-m	13	Z	13	0	0
+<g/>
+.	Fp	.-x	.	Fp	.	0	0
+</s>
+<s>
+Tales	DD0CP0	tal-x	tal	DD0CP0	tal	F	P
+situaciones	NCFP000	situación-n	situación	NCFP000	situación	F	P
+demuestran	VMIP3P0	demostrar-v	demostrar	VMIP3P0	demostrar	0	0
+fehacientemente	RG	fehacientemente-r	fehacientemente	RG	fehacientemente	0	0
+la	DA0FS0	el-x	la	DA0FS0	el	F	S
+existencia	NCFS000	existencia-n	existencia	NCFS000	existencia	F	S
+de	SP	de-i	de	SP	de	F	S
+una	DI0FS0	uno-x	una	DI0FS0	uno	F	S
+serie	NCFS000	serie-n	serie	NCFS000	serie	F	S
+de	SP	de-i	de	SP	de	M	P
+tratamientos	NCMP000	tratamiento-n	tratamiento	NCMP000	tratamiento	M	P
+discriminatorios	AQ0MP00	discriminatorio-j	discriminatorio	AQ0MP00	discrimi

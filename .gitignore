@@ -1,6 +1,6 @@
 # Private coropra
 corpora/*
-!corpora/*/vertical/source
+!corpora/**/vertical/source
 !corpora/registry*
 
 # Compiled corpora

@@ -1,13 +1,7 @@
 # Private coropra
 corpora/*
-
-!corpora/susanne/
-!corpora/emagyardemo/
-!corpora/gendjus_prova/
-
-!corpora/registry/gendjus_prova
-!corpora/registry/susanne
-!corpora/registry/emagyardemo
+!corpora/*/vertical/source
+!corpora/registry*
 
 # Compiled corpora
 corpora/**/indexed/*

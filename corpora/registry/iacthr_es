@@ -1,0 +1,188 @@
+DOCSTRUCTURE "doc"
+
+INFO "Explore the linguistic patterns of the IACtHR case law in Spanish regarding reproductive, sexual, and parental rights. Latest update: 15 October 2024"
+NAME "GenDJus_IACtHR_ES"
+PATH "/corpora/iacthr_es"
+ENCODING "UTF-8"
+LANGUAGE "Spanish"
+
+PATH "/corpora/iacthr_es/indexed"
+VERTICAL "/corpora/iacthr_es/vertical/source"
+
+INFOHREF "https://gendjus.it/case-law"
+TAGSETDOC "https://www.sketchengine.eu/spanish-freeling-part-of-speech-tagset/"
+
+# WSDEF "/corpora/wsdef/spanish-freeling-2.0.wsdef.m4"
+
+LPOSLIST ",adjective,-j,adverb,-r,conjunction,-c,noun,-n,numeral,-m,preposition,-i,pronoun,-p,verb,-v"
+WPOSLIST ",adjective,A.*,adverb,R.*,conjunction,C.*,determiner,D.*,noun,N.*,numeral,Z.*,preposition,S.*,pronoun,P.*,verb,V.*,punctuation,F.*"
+
+REFCORPUS "estenten18_fl6"
+SIMPLEQUERY '[lc="%s" | lemma_lc="%s" | morphemes="%s"]'
+# TERMDEF "/corpora/wsdef/spanish-freeling-terms-2.0.termdef.m4"
+WSATTR "lempos"
+
+
+ATTRIBUTE "word" {
+    MAPTO "lempos"
+}
+ATTRIBUTE "tag" {
+}
+ATTRIBUTE "lempos" {
+}
+ATTRIBUTE "gender_lemma" {
+}
+ATTRIBUTE "tags" {
+    LABEL "composed tag"
+    MULTISEP ","
+    MULTIVALUE "1"
+}
+ATTRIBUTE "morphemes" {
+    MULTISEP ","
+    MULTIVALUE "1"
+}
+ATTRIBUTE "gender_guess" {
+    MULTISEP ","
+    MULTIVALUE "1"
+}
+ATTRIBUTE "number_guess" {
+    MULTISEP ","
+    MULTIVALUE "1"
+}
+ATTRIBUTE "lc" {
+    ARG1 "C"
+    DYNAMIC "utf8lowercase"
+    DYNLIB "internal"
+    DYNTYPE "freq"
+    FROMATTR "word"
+    FUNTYPE "s"
+    TRANSQUERY "yes"
+}
+ATTRIBUTE "lempos_lc" {
+    ARG1 "C"
+    DYNAMIC "utf8lowercase"
+    DYNLIB "internal"
+    DYNTYPE "freq"
+    FROMATTR "lempos"
+    FUNTYPE "s"
+    LABEL "lempos (lowercase)"
+    TRANSQUERY "yes"
+}
+ATTRIBUTE "lemma" {
+    ARG1 "2"
+    DYNAMIC "striplastn"
+    DYNLIB "internal"
+    DYNTYPE "freq"
+    FROMATTR "lempos"
+    FUNTYPE "i"
+}
+ATTRIBUTE "lemma_lc" {
+    ARG1 "C"
+    DYNAMIC "utf8lowercase"
+    DYNLIB "internal"
+    DYNTYPE "freq"
+    FROMATTR "lemma"
+    FUNTYPE "s"
+    LABEL "lemma (lowercase)"
+    TRANSQUERY "yes"
+}
+ATTRIBUTE "shorttag" {
+    ARG1 "1"
+    DYNAMIC "getfirstn"
+    DYNLIB "internal"
+    DYNTYPE "freq"
+    FROMATTR "tag"
+    FUNTYPE "i"
+}
+ATTRIBUTE "pos" {
+    DYNAMIC "awk '{print substr($0,length($0))}'"
+    DYNLIB "pipe"
+    DYNTYPE "freq"
+    FROMATTR "lempos"
+}
+STRUCTURE "s" {
+}
+STRUCTURE "g" {
+    DISPLAYBEGIN "_EMPTY_"
+    DISPLAYTAG "0"
+}
+STRUCTURE "doc" {
+    DEFAULTLOCALE "C"
+    ENCODING "UTF-8"
+    LANGUAGE ""
+    NESTED ""
+    ATTRIBUTE "reproductive_rights" {
+        DYNLIB ""
+        DYNTYPE "index"
+        ENCODING "UTF-8"
+        LOCALE "C"
+        MULTISEP ","
+        LABEL "Reproductive rights"
+        HIERARCHICAL "::"
+        MULTIVALUE "1"
+        TYPE "MD_MI"
+    }
+ ATTRIBUTE "sexual_rights" {
+        DYNLIB ""
+        DYNTYPE "index"
+        ENCODING "UTF-8"
+        LOCALE "C"
+        MULTISEP ","
+        LABEL "Sexual rights"
+        HIERARCHICAL "::"
+        MULTIVALUE "1"
+        TYPE "MD_MI"
+    }
+    ATTRIBUTE "parental_rights" {
+        DYNLIB ""
+        DYNTYPE "index"
+        ENCODING "UTF-8"
+        LOCALE "C"
+        MULTISEP ","
+        LABEL "Parental rights"
+        HIERARCHICAL "::"
+        MULTIVALUE "1"
+        TYPE "MD_MI"
+    }
+ATTRIBUTE "discrimination" {
+        DYNLIB ""
+        DYNTYPE "index"
+        ENCODING "UTF-8"
+        LOCALE "C"
+        MULTISEP ","
+       LABEL "Discrimination"
+        HIERARCHICAL "::"
+        MULTIVALUE "1"
+        TYPE "MD_MI"
+    }
+    ATTRIBUTE "document" {
+        DYNLIB ""
+        DYNTYPE "index"
+        ENCODING "UTF-8"
+        LOCALE "C"
+        MULTISEP ","
+        LABEL "Document"
+        HIERARCHICAL "::"
+        MULTIVALUE "1"
+        TYPE "MD_MI"
+    }
+}
+STRUCTURE "ad-inquirendum" {
+    ENCODING "UTF-8"
+}
+STRUCTURE "docx" {
+    DEFAULTLOCALE "C"
+    ENCODING "UTF-8"
+    LANGUAGE ""
+    NESTED ""
+     ATTRIBUTE "filename" {
+        DYNLIB ""
+        DYNTYPE "index"
+        ENCODING "UTF-8"
+        LABEL "File name"
+        LOCALE "C"
+        MULTISEP ","
+        MULTIVALUE "n"
+        TYPE "MD_MI"
+    }
+}
